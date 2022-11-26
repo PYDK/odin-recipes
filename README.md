@@ -1,0 +1,1 @@
+A repository for practicing the html boilerplate and directory management.
